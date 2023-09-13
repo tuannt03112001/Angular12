@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace src.app
 {
-    public class NewClass.html
+    public class NewClass
     {
         
     }
